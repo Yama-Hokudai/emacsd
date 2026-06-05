@@ -1,0 +1,7 @@
+# .gitignore
+# Ignore All
+*
+
+!.gitignore
+!early-init.el
+!init.el
