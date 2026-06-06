@@ -12,14 +12,14 @@ Emacs init.el
 
 ## 導入ずみ
 - 汎用エディタ補強
--- キーバインドチューニング
--- UndoTree導入
+    - キーバインドチューニング
+    - UndoTree導入
 - バッファ補完
 - プロジェクトビルド支援
- - プロジェクトの初期化(CMakeLists.txt作成)
- - CMake利用のワンタッチビルド
+    - プロジェクトの初期化(CMakeLists.txt作成)
+    - CMake利用のワンタッチビルド
 - コード補完
- - C/C++ は言語サーバ使用
- - elisp は組み込み
+    - C/C++ は言語サーバ使用
+    - elisp は組み込み
 - バイブコーディング支援
- - lmstudio 連携
+    - lmstudio 連携
